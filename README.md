@@ -2,7 +2,7 @@
 
 There's only a few 3 letter usernames (a-z) left. You can use this Ruby script to find them.
 
-[Output](http://i.imgur.com/MrKfLqm.png)
+![console output](http://i.imgur.com/MrKfLqm.png)
 
 
 ### Usage
