@@ -1,6 +1,6 @@
 # Reddit Username Finder
 
-There's only a few 3 letter usernames (a-z) left. You can use this Ruby script to find them.
+There's only a few 3 letter usernames (a-z) left on Reddit. You can use this Ruby script to find them.
 
 ![console output](http://i.imgur.com/MrKfLqm.png)
 
