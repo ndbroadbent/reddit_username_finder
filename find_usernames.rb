@@ -32,11 +32,11 @@ def account_status(username)
   end
 end
 
-threads = []
-
 puts "Searching for usernames!\n\n"
 
 5.times do
+  threads = []
+
   200.times do
     threads << Thread.new do
       username = random_username(CHAR_COUNT)
