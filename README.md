@@ -11,6 +11,10 @@ There's only a few 3 letter usernames (a-z) left. You can use this Ruby script t
 ./find_usernames.rb
 ```
 
+* **Pink:** Taken
+* **Red:** Taken by a deleted account
+* **Green:** Available
+
 
 ### How it works
 
